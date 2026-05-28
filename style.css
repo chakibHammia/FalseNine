@@ -1,0 +1,16 @@
+body {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: 'Sofia Sans';
+    background-color: #59B292;
+}
+
+#mainButton {
+    height: 100px;
+    width: 100px;
+    font-family: 'Sofia Sans';
+    border: 1px solid black;
+    border-radius: 100px;
+}
